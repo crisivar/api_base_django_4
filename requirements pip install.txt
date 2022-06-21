@@ -1,0 +1,13 @@
+pip install Django
+
+pip install djangorestframework
+pip install markdown       # Markdown support for the browsable API.
+pip install django-filter  # Filtering support
+
+pip install django-environ
+
+pip install djangorestframework-simplejwt
+
+python -m pip install django-cors-headers
+
+pip install psycopg2
